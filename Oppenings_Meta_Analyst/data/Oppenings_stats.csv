@@ -1,0 +1,204 @@
+Elo_Range,Opening_Name,Games_Count
+1000.0,Queen's Gambit,226
+1000.0,English Opening,193
+1000.0,Sicilian Defense,301
+1000.0,Reti / Irregular,412
+1000.0,Caro-Kann,268
+1000.0,Queen's Pawn / Tromp,570
+1000.0,Dutch Defense,22
+1000.0,London / System d4,809
+1000.0,King's Indian / Grunfeld,15
+1000.0,Benoni / Benko,10
+1000.0,Alekhine / Scandi,660
+1000.0,Nimzo / Queen's Indian,21
+1000.0,Italian / Scotch,1761
+1000.0,Pirc / Modern,150
+1000.0,French Defense,229
+1000.0,Ruy Lopez (Spanish),74
+1000.0,Grunfeld Defense,8
+1200.0,Sicilian Defense,562
+1200.0,English Opening,178
+1200.0,London / System d4,846
+1200.0,Queen's Pawn / Tromp,770
+1200.0,Caro-Kann,382
+1200.0,Italian / Scotch,2663
+1200.0,French Defense,554
+1200.0,Alekhine / Scandi,774
+1200.0,Queen's Gambit,217
+1200.0,Reti / Irregular,881
+1200.0,Benoni / Benko,13
+1200.0,Pirc / Modern,460
+1200.0,Other,1
+1200.0,Ruy Lopez (Spanish),99
+1200.0,Dutch Defense,49
+1200.0,King's Indian / Grunfeld,17
+1200.0,Nimzo / Queen's Indian,15
+1200.0,Grunfeld Defense,1
+1400.0,French Defense,578
+1400.0,Queen's Pawn / Tromp,1050
+1400.0,Italian / Scotch,1988
+1400.0,Reti / Irregular,691
+1400.0,Caro-Kann,917
+1400.0,Sicilian Defense,886
+1400.0,Queen's Gambit,505
+1400.0,Ruy Lopez (Spanish),110
+1400.0,Alekhine / Scandi,1156
+1400.0,London / System d4,1368
+1400.0,Nimzo / Queen's Indian,59
+1400.0,Pirc / Modern,621
+1400.0,English Opening,629
+1400.0,Dutch Defense,110
+1400.0,King's Indian / Grunfeld,187
+1400.0,Benoni / Benko,36
+1400.0,Grunfeld Defense,8
+800.0,London / System d4,399
+800.0,Queen's Pawn / Tromp,230
+800.0,Italian / Scotch,840
+800.0,Sicilian Defense,172
+800.0,Reti / Irregular,140
+800.0,French Defense,145
+800.0,Caro-Kann,157
+800.0,Alekhine / Scandi,266
+800.0,Ruy Lopez (Spanish),74
+800.0,Pirc / Modern,86
+800.0,Queen's Gambit,138
+800.0,Dutch Defense,20
+800.0,Grunfeld Defense,9
+800.0,English Opening,31
+800.0,Other,1
+800.0,King's Indian / Grunfeld,10
+800.0,Nimzo / Queen's Indian,7
+800.0,Benoni / Benko,4
+1600.0,French Defense,595
+1600.0,King's Indian / Grunfeld,107
+1600.0,Reti / Irregular,611
+1600.0,Italian / Scotch,1595
+1600.0,Sicilian Defense,967
+1600.0,Queen's Pawn / Tromp,921
+1600.0,Pirc / Modern,202
+1600.0,Alekhine / Scandi,803
+1600.0,Caro-Kann,486
+1600.0,London / System d4,723
+1600.0,Nimzo / Queen's Indian,63
+1600.0,Ruy Lopez (Spanish),47
+1600.0,Queen's Gambit,556
+1600.0,Other,7
+1600.0,English Opening,397
+1600.0,Dutch Defense,51
+1600.0,Grunfeld Defense,13
+1600.0,Benoni / Benko,58
+1800.0,French Defense,212
+1800.0,Italian / Scotch,655
+1800.0,Alekhine / Scandi,339
+1800.0,London / System d4,311
+1800.0,Reti / Irregular,538
+1800.0,Pirc / Modern,352
+1800.0,Sicilian Defense,360
+1800.0,Caro-Kann,132
+1800.0,English Opening,129
+1800.0,Ruy Lopez (Spanish),41
+1800.0,Queen's Gambit,235
+1800.0,Queen's Pawn / Tromp,297
+1800.0,Grunfeld Defense,14
+1800.0,Benoni / Benko,33
+1800.0,Dutch Defense,20
+1800.0,Nimzo / Queen's Indian,22
+1800.0,King's Indian / Grunfeld,78
+2000.0,Queen's Pawn / Tromp,426
+2000.0,Alekhine / Scandi,429
+2000.0,London / System d4,244
+2000.0,Pirc / Modern,479
+2000.0,English Opening,299
+2000.0,Queen's Gambit,275
+2000.0,Caro-Kann,239
+2000.0,Sicilian Defense,607
+2000.0,Reti / Irregular,749
+2000.0,French Defense,447
+2000.0,Italian / Scotch,398
+2000.0,Ruy Lopez (Spanish),20
+2000.0,Grunfeld Defense,23
+2000.0,Benoni / Benko,83
+2000.0,King's Indian / Grunfeld,87
+2000.0,Dutch Defense,18
+2000.0,Nimzo / Queen's Indian,52
+2200.0,Alekhine / Scandi,111
+2200.0,London / System d4,373
+2200.0,Queen's Pawn / Tromp,513
+2200.0,Pirc / Modern,96
+2200.0,Queen's Gambit,298
+2200.0,Italian / Scotch,149
+2200.0,English Opening,153
+2200.0,Caro-Kann,100
+2200.0,Ruy Lopez (Spanish),37
+2200.0,Grunfeld Defense,20
+2200.0,King's Indian / Grunfeld,71
+2200.0,French Defense,303
+2200.0,Reti / Irregular,247
+2200.0,Benoni / Benko,59
+2200.0,Sicilian Defense,425
+2200.0,Nimzo / Queen's Indian,80
+2200.0,Dutch Defense,21
+2400.0,Reti / Irregular,53
+2400.0,Ruy Lopez (Spanish),4
+2400.0,English Opening,41
+2400.0,Sicilian Defense,44
+2400.0,French Defense,21
+2400.0,King's Indian / Grunfeld,5
+2400.0,Italian / Scotch,20
+2400.0,Caro-Kann,14
+2400.0,Pirc / Modern,18
+2400.0,Queen's Gambit,31
+2400.0,Queen's Pawn / Tromp,33
+2400.0,London / System d4,34
+2400.0,Alekhine / Scandi,33
+2400.0,Nimzo / Queen's Indian,4
+2400.0,Dutch Defense,4
+2400.0,Benoni / Benko,11
+2400.0,Grunfeld Defense,2
+2600.0,Reti / Irregular,1
+2600.0,Queen's Gambit,3
+2600.0,Sicilian Defense,4
+2600.0,French Defense,2
+2600.0,English Opening,1
+600.0,French Defense,50
+600.0,English Opening,18
+600.0,Italian / Scotch,422
+600.0,Queen's Gambit,26
+600.0,London / System d4,195
+600.0,Reti / Irregular,102
+600.0,Pirc / Modern,37
+600.0,Ruy Lopez (Spanish),15
+600.0,Alekhine / Scandi,119
+600.0,Sicilian Defense,70
+600.0,Caro-Kann,43
+600.0,Queen's Pawn / Tromp,136
+600.0,Dutch Defense,9
+600.0,Nimzo / Queen's Indian,2
+600.0,Benoni / Benko,2
+600.0,Grunfeld Defense,1
+400.0,Italian / Scotch,24
+400.0,London / System d4,25
+400.0,Caro-Kann,26
+400.0,Queen's Pawn / Tromp,18
+400.0,Reti / Irregular,14
+400.0,Pirc / Modern,6
+400.0,Grunfeld Defense,2
+400.0,Dutch Defense,2
+400.0,French Defense,19
+400.0,Ruy Lopez (Spanish),1
+400.0,Alekhine / Scandi,14
+400.0,English Opening,1
+400.0,Sicilian Defense,4
+400.0,Other,8
+200.0,London / System d4,2
+200.0,Sicilian Defense,4
+200.0,Italian / Scotch,5
+200.0,French Defense,1
+200.0,Dutch Defense,2
+200.0,Alekhine / Scandi,4
+200.0,Pirc / Modern,2
+0.0,Italian / Scotch,1
+0.0,London / System d4,3
+0.0,Reti / Irregular,3
+0.0,Alekhine / Scandi,4
+0.0,Queen's Pawn / Tromp,1
